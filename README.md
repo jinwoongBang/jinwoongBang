@@ -1,5 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=230&section=header&text=Jinwoong-Bang&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:C2306C,100:5571FD&height=230&text=Jinwoong-Bang&fontSize=70&fontColor=fff&fontAlignY=35&animation=twinkling)
+
+<br/>
 
 ## ✨ 간결함을 좋아하는 프론트엔드 개발자 ✨
 - 안녕하세요 4년차 프론트엔드 개발자 방진웅 입니다 👋
@@ -10,7 +12,11 @@
 
 <br/>
 
-### Experience
+***
+
+<br/>
+
+### 🔭 Experience
 - HTML5 비디오 플레이어 UI 커스텀 구현 경험
 - Canvas 를 활용한 frame 단위의 영상 구간 자르기 및 영역 자르기 UI 구현 경험
 - FFmpeg 기반의 사내 솔루션을 활용한 영상 영역 및 구간 자르기 기능 구현 경험
