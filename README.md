@@ -1,8 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:C2306C,100:5571FD&height=230&text=Jinwoong-Bang&fontSize=70&fontColor=fff&fontAlignY=35&animation=twinkling)
-
-<br/>
-
 ## ✨ 간결함을 좋아하는 프론트엔드 개발자 ✨
 - 안녕하세요 4년차 프론트엔드 개발자 방진웅 입니다 👋
 - 현재 (주)맑은기술 에서 웹 개발자로 근무 중이며,
