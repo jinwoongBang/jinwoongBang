@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:C2306C,100:5571FD&height=230&text=Jinwoong-Bang&fontSize=70&fontColor=fff&fontAlignY=35&animation=twinkling)
 ## ✨ 간결함을 좋아하는 프론트엔드 개발자 ✨
 - 안녕하세요 4년차 프론트엔드 개발자 방진웅 입니다 👋
-- 현재 (주)맑은기술 에서 웹 개발자로 근무 중이며,
+- (주)맑은기술 에서 2019-2022 까지 웹 개발자로 근무했으며,
 - 주로 프론트엔드 개발과 미들웨어 WAS 개발 업무를 담당하고 있습니다.
 - 삼육대학교를 졸업했고,
 - 환경그린디자인학 & 경영학을 복수전공 했습니다
