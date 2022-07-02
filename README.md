@@ -1,8 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:C2306C,100:5571FD&height=230&text=Jinwoong-Bang&fontSize=70&fontColor=fff&fontAlignY=35&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:C2306C,100:5571FD&height=230&text=간결함을%20좋아하는%20프론트엔드%20개발자&fontSize=70&fontColor=fff&fontAlignY=35&animation=twinkling)
 
 
-<h1 align="center">✨ 간결함을 좋아하는 프론트엔드 개발자 ✨</h1>
+<!-- <h1 align="center">✨ 간결함을 좋아하는 프론트엔드 개발자 ✨</h1> -->
 
 <p align="center">
 안녕하세요 4년차 프론트엔드 개발자 방진웅 입니다 👋
@@ -16,6 +16,8 @@
 <p align="center">
 삼육대학교를 졸업했고, 환경그린디자인학 & 경영학을 복수전공 했습니다
 </p>
+
+<br/>
 
 <h1 align="center">✨ Tech Stack ✨</h1>
 
