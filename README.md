@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:C2306C,100:5571FD&height=230&text=간결함을%20좋아하는%20프론트엔드%20개발자&fontSize=70&fontColor=fff&fontAlignY=35&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:C2306C,100:5571FD&height=230&text=간결함을%20좋아하는%20개발자&fontSize=70&fontColor=fff&fontAlignY=35&animation=twinkling)
 
 
 <!-- <h1 align="center">✨ 간결함을 좋아하는 프론트엔드 개발자 ✨</h1> -->
