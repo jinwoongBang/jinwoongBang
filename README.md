@@ -18,7 +18,7 @@
 
 <h1 align="">✨ Tech Stack ✨</h1>
 
-<p align=""><img src="https://img.shields.io/badge/JavaScript-pink?style=flat-square&logo=JavaScript&logoColor=yellow"/></a>&nbsp<img src="https://img.shields.io/badge/Typescript-C2306C?style=flat-square&logo=Typescript&logoColor=5571FD"/></a>&nbsp<img src="https://img.shields.io/badge/React-C2306C?style=flat-square&logo=React&logoColor=5571FD"/></a>&nbsp<img src="https://img.shields.io/badge/NextJS-C2306C?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
+<p align=""><img src="https://img.shields.io/badge/JavaScript-F03C87?style=flat-square&logo=JavaScript&logoColor=yellow"/></a>&nbsp<img src="https://img.shields.io/badge/Typescript-C2306C?style=flat-square&logo=Typescript&logoColor=5571FD"/></a>&nbsp<img src="https://img.shields.io/badge/React-C2306C?style=flat-square&logo=React&logoColor=5571FD"/></a>&nbsp<img src="https://img.shields.io/badge/NextJS-C2306C?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Electron-C2306C?style=flat-square&logo=electron&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Webpack-C2306C?style=flat-square&logo=webpack&logoColor=5571FD"/></a>&nbsp
 </p>
