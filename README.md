@@ -17,11 +17,8 @@
 삼육대학교를 졸업했고, 환경그린디자인학 & 경영학을 복수전공 했습니다
 </p>
 
-<br/>
+<h1 align="center">✨ Tech Stack ✨</h1>
 
-<br/>
-
-<h2 align="center">✨ Tech Stack ✨</h1>
 <p align="center"><img src="https://img.shields.io/badge/JavaScript-C2306C?style=flat-square&logo=JavaScript&logoColor=yellow"/></a>&nbsp<img src="https://img.shields.io/badge/Typescript-C2306C?style=flat-square&logo=Typescript&logoColor=5571FD"/></a>&nbsp<img src="https://img.shields.io/badge/React-C2306C?style=flat-square&logo=React&logoColor=5571FD"/></a>&nbsp<img src="https://img.shields.io/badge/NextJS-C2306C?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Electron-C2306C?style=flat-square&logo=electron&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Webpack-C2306C?style=flat-square&logo=webpack&logoColor=5571FD"/></a>&nbsp
@@ -41,11 +38,6 @@
 <img src="https://img.shields.io/badge/AWS Lambda-1B3DAD?style=flat-square&logo=amazon aws&logoColor=red"/></a>&nbsp
 <img src="https://img.shields.io/badge/AWS EventBridge-1B3DAD?style=flat-square&logo=amazon aws&logoColor=red"/></a>&nbsp
 </p>
-<br/>
-
-***
-
-<br/>
 
 ### 🔭 Experience
 - HTML5 비디오 플레이어 UI 커스텀 구현 경험
