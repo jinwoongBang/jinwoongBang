@@ -1,20 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:C2306C,100:5571FD&height=230&text=간결함을%20좋아하는%20개발자&fontSize=70&fontColor=fff&fontAlignY=35&animation=twinkling)
 <!-- <h1 align="center">✨ 간결함을 좋아하는 프론트엔드 개발자 ✨</h1> -->
-<h3 align="center">
-안녕하세요 4년차 프론트엔드 개발자 방진웅 입니다 👋
-</h3>
-<h3 align="center">
-(주)맑은기술 에서 2019.03 ~ 2022.07 까지 웹 개발자로 재직했으며,
-</h3>
-<h3 align="center">
-주로 프론트엔드 개발과 미들웨어 WAS 개발 업무를 담당했습니다.
-</h3>
-<h3 align="center">
-삼육대학교를 졸업했고, 환경그린디자인학 & 경영학을 복수전공 했습니다
-</h3>
-
-<br /><br />
 
 <h1 align="">✨ Tech Stack ✨</h1>
 
