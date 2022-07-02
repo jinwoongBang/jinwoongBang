@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/AWS EventBridge-1B3DAD?style=flat-square&logo=amazon aws&logoColor=red"/></a>&nbsp
 </p>
 
-<h1 align="center">🔭 Experience 🔭</h1>
+<h1 align="">🔭 Experience 🔭</h1>
 
 - HTML5 비디오 플레이어 UI 커스텀 구현 경험
 - Canvas 를 활용한 frame 단위의 영상 구간 자르기 및 영역 자르기 UI 구현 경험
