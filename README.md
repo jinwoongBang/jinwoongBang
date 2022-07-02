@@ -1,9 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:C2306C,100:5571FD&height=230&text=간결함을%20좋아하는%20개발자&fontSize=70&fontColor=fff&fontAlignY=35&animation=twinkling)
-
-
 <!-- <h1 align="center">✨ 간결함을 좋아하는 프론트엔드 개발자 ✨</h1> -->
-
 <p align="center">
 안녕하세요 4년차 프론트엔드 개발자 방진웅 입니다 👋
 </p>
@@ -41,16 +38,19 @@
 <img src="https://img.shields.io/badge/AWS EventBridge-1B3DAD?style=flat-square&logo=amazon aws&logoColor=red"/></a>&nbsp
 </p>
 
-### 🔭 Experience
-- HTML5 비디오 플레이어 UI 커스텀 구현 경험
-- Canvas 를 활용한 frame 단위의 영상 구간 자르기 및 영역 자르기 UI 구현 경험
-- FFmpeg 기반의 사내 솔루션을 활용한 영상 영역 및 구간 자르기 기능 구현 경험
-- AWS Mediaconvert 솔루션을 활용한 영상 구간 자르기 기능 구현 경험 
-- Recharts JS / Chart JS기반 통계 페이지 구현 경험
-- 반응형 및 크로스 브라우징 웹 페이지 구현 경험
-- Spring boot 미들웨어 구현 및 배포 경험
-- 화면정의서, 디자인, 화면 개발까지 제품 구현 경험
-- 일러스트레이터, 포토샵, 피그마 등 디자인 툴 활용 가능
+<br/>
+
+<h1 align="center">🔭 Experience 🔭</h1>
+
+<p align="center">HTML5 비디오 플레이어 UI 커스텀 구현 경험</p>
+<p align="center">Canvas 를 활용한 frame 단위의 영상 구간 자르기 및 영역 자르기 UI 구현 경험</p>
+<p align="center">FFmpeg 기반의 사내 솔루션을 활용한 영상 영역 및 구간 자르기 기능 구현 경험</p>
+<p align="center">AWS Mediaconvert 솔루션을 활용한 영상 구간 자르기 기능 구현 경험</p>
+<p align="center">Recharts JS / Chart JS기반 통계 페이지 구현 경험</p>
+<p align="center">반응형 및 크로스 브라우징 웹 페이지 구현 경험</p>
+<p align="center">Spring boot 미들웨어 구현 및 배포 경험</p>
+<p align="center">화면정의서, 디자인, 화면 개발까지 제품 구현 경험</p>
+<p align="center">일러스트레이터, 포토샵, 피그마 등 디자인 툴 활용 가능</p>
   
 
 <!-- **jinwoongBang/jinwoongBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
