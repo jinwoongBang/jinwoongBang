@@ -1,6 +1,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:C2306C,100:5571FD&height=230&text=간결함을%20좋아하는%20Front-end%20Developer&fontSize=35&fontColor=fff&fontAlignY=35&animation=twinkling)
 
+<h1 align="">✨ Me ✨</h1>
+
+- ### 2019 ~ 2022
+  - (주)맑은기술 에서 Front-end 또는 BFF 미들웨어 개발 담당
+- ### 2017 ~ 2018
+  - TheSMC 에서 SNS 광고대행 업무 담당
+- ### 2010 ~ 2017
+  - 삼육대학교 환경그린디자인 & 경영학 복수 전공
+  
 <h1 align="">✨ Tech Stack ✨</h1>
 
 <p align=""><img src="https://img.shields.io/badge/JavaScript-F03C87?style=flat-square&logo=JavaScript&logoColor=yellow"/></a>&nbsp<img src="https://img.shields.io/badge/Typescript-F03C87?style=flat-square&logo=Typescript&logoColor=5571FD"/></a>&nbsp<img src="https://img.shields.io/badge/React-F03C87?style=flat-square&logo=React&logoColor=5571FD"/></a>&nbsp<img src="https://img.shields.io/badge/NextJS-F03C87?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
