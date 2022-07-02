@@ -5,20 +5,20 @@
 안녕하세요 4년차 프론트엔드 개발자 방진웅 입니다 👋
 </h3>
 <h3 align="center">
-(주)맑은기술 에서 2019.03 ~ 2022.07 까지 웹 개발자로 재직
+(주)맑은기술 에서 2019.03 ~ 2022.07 까지 웹 개발자로 재직했으며,
 </h3>
 <h3 align="center">
-주로 프론트엔드 개발과 미들웨어 WAS 개발 업무를 담당하고 있습니다
+주로 프론트엔드 개발과 미들웨어 WAS 개발 업무를 담당했습니다.
 </h3>
 <h3 align="center">
 삼육대학교를 졸업했고, 환경그린디자인학 & 경영학을 복수전공 했습니다
 </h3>
 
-<br /><br /><br />
+<br /><br />
 
 <h1 align="">✨ Tech Stack ✨</h1>
 
-<p align=""><img src="https://img.shields.io/badge/JavaScript-C2306C?style=flat-square&logo=JavaScript&logoColor=yellow"/></a>&nbsp<img src="https://img.shields.io/badge/Typescript-C2306C?style=flat-square&logo=Typescript&logoColor=5571FD"/></a>&nbsp<img src="https://img.shields.io/badge/React-C2306C?style=flat-square&logo=React&logoColor=5571FD"/></a>&nbsp<img src="https://img.shields.io/badge/NextJS-C2306C?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
+<p align=""><img src="https://img.shields.io/badge/JavaScript-pink?style=flat-square&logo=JavaScript&logoColor=yellow"/></a>&nbsp<img src="https://img.shields.io/badge/Typescript-C2306C?style=flat-square&logo=Typescript&logoColor=5571FD"/></a>&nbsp<img src="https://img.shields.io/badge/React-C2306C?style=flat-square&logo=React&logoColor=5571FD"/></a>&nbsp<img src="https://img.shields.io/badge/NextJS-C2306C?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Electron-C2306C?style=flat-square&logo=electron&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Webpack-C2306C?style=flat-square&logo=webpack&logoColor=5571FD"/></a>&nbsp
 </p>
