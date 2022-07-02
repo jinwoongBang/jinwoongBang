@@ -1,13 +1,33 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:C2306C,100:5571FD&height=180&text=간결함을%20좋아하는%20Front-end%20Developer&fontSize=35&fontColor=fff&fontAlignY=35&animation=twinkling)
 
+_<p align="center">2022년 7월 ~ 2019년 3월</p>_
+<!-- --- 2022년 7월 ~ 2019년 3월 --- -->
 
-- 2019.03 ~ 2022.07
-  - (주)맑은기술 에서 Front-end 또는 BFF 미들웨어 개발 담당
-- 2017.08 ~ 2018.05
-  - TheSMC 에서 SNS 광고대행 업무 담당
-- 2010.03 ~ 2017.02
-  - 삼육대학교 환경그린디자인 & 경영학 복수 전공
+<h2 align="center" font="bold">(주)맑은기술</h2>
+<h3 align="center">Front-end 또는 BFF 미들웨어 개발</h3>
+<h4 align="center">CMS 웹 서비스 개발</h4>
+
+<p align="center">|</p>
+
+_<p align="center">2018년 6월 ~ 2018년 12월</p>_
+<h2 align="center">비트캠프</h2>
+<h3 align="center">국비지원 웹 개발 교육</h3>
+<h4 align="center">Java, Javascript, SQL, HTML, CSS 등 기본적인 웹 개발 언어 및 도구 학습</h4>
+
+<p align="center">|</p>
+
+_<p align="center">2017년 8월 ~ 2018년 5월</p>_
+<h2 align="center">TheSMC</h2>
+<h3 align="center">SNS 광고 대행 업무 담당</h3>
+<h4 align="center">PPT 기획안 작성을 통한 디자이너와 커뮤니케이션 경험</h4>
+
+<p align="center">|</p>
+
+_<p align="center">2010년 3월 ~ 2017년 2월</p>_
+<h2 align="center">삼육대학교 졸업</h2>
+<h3 align="center">환경그린디자인학과 & 경영학과</h3>
+<h4 align="center">일러스트레이터, 포토샵 디자인 툴에 대한 학습</h4>
 
 <br/>
 
@@ -21,7 +41,7 @@
 <img src="https://img.shields.io/badge/Java-5571FD?style=flat-square&logo=openjdk&logoColor=red"/></a>&nbsp<img src="https://img.shields.io/badge/Spring Boot-5571FD?style=flat-square&logo=spring boot&logoColor=green"/></a>&nbsp
 </p>
 <p align="">
-<img src="https://img.shields.io/badge/Apache Tomcat-5571FD?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Nginx-5571FD?style=flat-square&logo=nginx&logoColor=green"/></a>&nbsp<img src="https://img.shields.io/badge/Docker-5571FD?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Apache Tomcat-5571FD?style=flat-square&logo=Apache Tomcat&logoColor=yellow"/></a>&nbsp<img src="https://img.shields.io/badge/Nginx-5571FD?style=flat-square&logo=nginx&logoColor=green"/></a>&nbsp<img src="https://img.shields.io/badge/Docker-5571FD?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
 </p>
 <p align="">
 <img src="https://img.shields.io/badge/AWS S3-1B3DAD?style=flat-square&logo=amazon aws&logoColor=red"/></a>&nbsp
