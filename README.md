@@ -57,33 +57,29 @@
 _<p align="center">2022년 7월 ~ 2019년 3월</p>_
 
 <h3 align="center">(주)맑은기술</h3>
-<h5 align="center" style="color: grey">Front-end 또는 BFF 미들웨어 개발</h5>
-<h5 align="center" style="color: grey">CMS 웹 서비스 개발</h5>
+<p align="center" style="color: grey">Front-end 또는 BFF 미들웨어 개발</p>
+<p align="center" style="color: grey">CMS 웹 서비스 개발</p>
 
 <br/>
 
 _<p align="center">2018년 6월 ~ 2018년 12월</p>_
 <h3 align="center">비트캠프</h3>
-<h5 align="center" style="color: grey">국비지원 웹 개발 교육</h5>
-<h5 align="center" style="color: grey">Java, Javascript, SQL, HTML, CSS 등 기본적인 웹 개발 언어 및 도구 학습</h5>
+<p align="center" style="color: grey">국비지원 웹 개발 교육</p>
+<p align="center" style="color: grey">Java, Javascript, SQL, HTML, CSS 등 기본적인 웹 개발 언어 및 도구 학습</p>
 
 <br/>
 
 _<p align="center">2017년 8월 ~ 2018년 5월</p>_
 <h3 align="center">TheSMC</h3>
-<h5 align="center" style="color: grey">SNS 광고 대행 업무 담당</h5>
-<h5 align="center" style="color: grey">PPT 기획안 작성을 통한 디자이너와 커뮤니케이션 경험</h5>
+<p align="center" style="color: grey">SNS 광고 대행 업무 담당</p>
+<p align="center" style="color: grey">PPT 기획안 작성을 통한 디자이너와 커뮤니케이션 경험</p>
 
 <br/>
 
 _<p align="center">2010년 3월 ~ 2017년 2월</p>_
 <h3 align="center">삼육대학교 졸업</h3>
-<h5 align="center" style="color: grey">환경그린디자인학과 & 경영학과</h5>
-<h5 align="center" style="color: grey">일러스트레이터, 포토샵 디자인 툴에 대한 학습</h5>
-
-<br/>
-
-  
+<p align="center" style="color: grey">환경그린디자인학과 & 경영학과</p>
+<p align="center" style="color: grey">일러스트레이터, 포토샵 디자인 툴에 대한 학습</p>
 
 <!-- **jinwoongBang/jinwoongBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
