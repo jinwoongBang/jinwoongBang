@@ -53,9 +53,9 @@
 
 <h3 align="">🍼 &nbsp 어느정도 사용할 줄 알아요 ~</h3>
 <p align="">
-<img src="https://img.shields.io/badge/Recoil-F03C87?style=flat&logo=&logoColor=2496ED"/>&nbsp<img src="https://img.shields.io/badge/GrapghQL-F03C87?style=flat&logo=graphql&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Recoil-F03C87?style=flat&logo=&logoColor=2496ED"/>&nbsp
 </p>
-<p align=""><img src="https://img.shields.io/badge/NodeJS-5571FD?style=flat&logo=node.js&logoColor=339933"/>&nbsp<img src="https://img.shields.io/badge/Docker-5571FD?style=flat&logo=docker&logoColor=2496ED"/>&nbsp<img src="https://img.shields.io/badge/Redis-5571FD?style=flat&logo=redis&logoColor=DC382D"/>&nbsp<img src="https://img.shields.io/badge/Jenkins-5571FD?style=flat&logo=jenkins&logoColor=D24939"/>&nbsp
+<p align=""><img src="https://img.shields.io/badge/NodeJS-5571FD?style=flat&logo=node.js&logoColor=339933"/>&nbsp<img src="https://img.shields.io/badge/GrapghQL-5571FD?style=flat&logo=graphql&logoColor=E10098"/>&nbsp<img src="https://img.shields.io/badge/Docker-5571FD?style=flat&logo=docker&logoColor=2496ED"/>&nbsp<img src="https://img.shields.io/badge/Redis-5571FD?style=flat&logo=redis&logoColor=DC382D"/>&nbsp<img src="https://img.shields.io/badge/Jenkins-5571FD?style=flat&logo=jenkins&logoColor=D24939"/>&nbsp
 </p>
 
 
