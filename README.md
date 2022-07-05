@@ -5,7 +5,19 @@
     ************* 기술 스택
     *************
  -->
-<h1 align="center"><img src="./mix_crop.png" width="40px" /><span style="color: #5571FD;">Tech Stack</span></h1>
+<h1 align="center"><img src="./mix_crop.png" width="40px" />
+<span>
+    <svg version="1.1"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        width="105" height="50"
+    >
+        <text font-size="20" x="10" y="35">
+            <tspan fill="#5571FD">Tech Stack</tspan>
+        </text>
+    </svg>
+</span></h1>
+
 
 <p align="center"><img src="https://img.shields.io/badge/JavaScript-F03C87?style=flat-square&logo=JavaScript&logoColor=yellow"/>&nbsp<img src="https://img.shields.io/badge/Typescript-F03C87?style=flat-square&logo=Typescript&logoColor=5571FD"/>&nbsp<img src="https://img.shields.io/badge/React-F03C87?style=flat-square&logo=React&logoColor=61DAFB"/>&nbsp<img src="https://img.shields.io/badge/NextJS-F03C87?style=flat-square&logo=next.js&logoColor=000000"/>&nbsp
 <img src="https://img.shields.io/badge/Electron-F03C87?style=flat-square&logo=electron&logoColor=47848F"/>&nbsp
