@@ -6,7 +6,6 @@
     ************* 기술 스택
     *************
  -->
-<br/>
 <h1 align="center">✨ Tech Stack ✨</h1>
 
 <p align="center"><img src="https://img.shields.io/badge/JavaScript-F03C87?style=flat-square&logo=JavaScript&logoColor=yellow"/>&nbsp<img src="https://img.shields.io/badge/Typescript-F03C87?style=flat-square&logo=Typescript&logoColor=5571FD"/>&nbsp<img src="https://img.shields.io/badge/React-F03C87?style=flat-square&logo=React&logoColor=61DAFB"/>&nbsp<img src="https://img.shields.io/badge/NextJS-F03C87?style=flat-square&logo=next.js&logoColor=000000"/>&nbsp
@@ -39,12 +38,12 @@
 <br />
 <h1 align="center">✨ Project ✨</h1>
 
-<p align="center">[WKBL] CMS 웹 서비스 개발</p>
-<p align="center">[WKBL] SNS 용 영상 편집 웹 서비스 개발</p>
+<p align="center">[WKBL(KBSN)] CMS 웹 서비스 개발</p>
+<p align="center">[WKBL(KBSN)] SNS 용 영상 편집 웹 서비스 개발</p>
 <p align="center">[WKBL(KBSN)] 에 납품된 SW 시스템 유지보수</p>
 <p align="center">[KBO] CMS 웹 서비스 개발</p>
 <p align="center">[K리그] CMS 웹 서비스 개발</p>
-<p align="center">[K리그] AWS S3 미디어 전송 작업 관리 및 모니터링 웹 서비스 개발</p>
+<p align="center">[K리그] AWS S3 미디어 전송 작업 관리 및 모니터링 Front-end 개발</p>
 <p align="center">[KBS] 방송 입고 현황 모니터링 웹 서비스 개발</p>
 <p align="center">[KBS] 납품된 솔루션 시스템 관리자 웹 페이지 개발 참여</p>
 <p align="center">[KBS] 납품된 솔루션 API 서버 개발 참여</p>
