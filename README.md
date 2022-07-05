@@ -5,29 +5,57 @@
     ************* 기술 스택
     *************
  -->
-<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">Tech Stack</p></h1>
+ 👋 안녕하세요 __4년차 프론트엔드 개발자__ 방진웅 입니다  
 
-<p align="center"><img src="https://img.shields.io/badge/JavaScript-F03C87?style=flat-square&logo=JavaScript&logoColor=yellow"/>&nbsp<img src="https://img.shields.io/badge/Typescript-F03C87?style=flat-square&logo=Typescript&logoColor=5571FD"/>&nbsp<img src="https://img.shields.io/badge/React-F03C87?style=flat-square&logo=React&logoColor=61DAFB"/>&nbsp<img src="https://img.shields.io/badge/NextJS-F03C87?style=flat-square&logo=next.js&logoColor=000000"/>&nbsp
-<img src="https://img.shields.io/badge/Electron-F03C87?style=flat-square&logo=electron&logoColor=47848F"/>&nbsp
-<img src="https://img.shields.io/badge/Webpack-F03C87?style=flat-square&logo=webpack&logoColor=8DD6F9"/>&nbsp
+ 🏢 2019.03 ~ 2022.07 까지 __(주)맑은기술에서 웹 개발자__ 로 재직했으며  
+
+ 🛠 주로 __프론트엔드 개발과 미들웨어 WAS 개발__ 업무를 담당했습니다. 
+
+🎓 삼육대학교를 졸업했고,  
+
+📚 환경그린디자인학 & 경영학을 복수전공 했습니다.
+
+<!-- 
+    *************
+    ************* 기술 스택
+    *************
+ -->
+<br/>
+<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">Tech Stack</p></h1>
+<h2 align="center">🏢 Technology that can be used for work ~</h2>
+
+
+<p align="center"><img src="https://img.shields.io/badge/JavaScript-F03C87?style=flat&logo=JavaScript&logoColor=yellow"/>&nbsp<img src="https://img.shields.io/badge/Typescript-F03C87?style=flat&logo=Typescript&logoColor=5571FD"/>&nbsp<img src="https://img.shields.io/badge/React-F03C87?style=flat&logo=React&logoColor=61DAFB"/>&nbsp<img src="https://img.shields.io/badge/Redux-F03C87?style=flat&logo=redux&logoColor=764ABC"/>&nbsp<img src="https://img.shields.io/badge/Mobx-F03C87?style=flat&logo=mobx&logoColor=FF9955"/>&nbsp<img src="https://img.shields.io/badge/NextJS-F03C87?style=flat&logo=next.js&logoColor=000000"/>&nbsp
+<img src="https://img.shields.io/badge/Electron-F03C87?style=flat&logo=electron&logoColor=47848F"/>&nbsp
+<img src="https://img.shields.io/badge/Webpack-F03C87?style=flat&logo=webpack&logoColor=8DD6F9"/>&nbsp
 </p>
-<p align="center"><img src="https://img.shields.io/badge/Tailwind CSS-F03C87?style=flat-square&logo=Tailwind CSS&logoColor=06B6D4"/>&nbsp<img src="https://img.shields.io/badge/Bootstrap-F03C87?style=flat-square&logo=Bootstrap&logoColor=7952B3"/>&nbsp<img src="https://img.shields.io/badge/Material UI-F03C87?style=flat-square&logo=mui&logoColor=007FFF"/>&nbsp
+<p align="center"><img src="https://img.shields.io/badge/Tailwind CSS-F03C87?style=flat&logo=Tailwind CSS&logoColor=06B6D4"/>&nbsp<img src="https://img.shields.io/badge/Bootstrap-F03C87?style=flat&logo=Bootstrap&logoColor=7952B3"/>&nbsp<img src="https://img.shields.io/badge/Material UI-F03C87?style=flat&logo=mui&logoColor=007FFF"/>&nbsp
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-5571FD?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Spring Boot-5571FD?style=flat-square&logo=spring boot&logoColor=green"/>&nbsp
+<img src="https://img.shields.io/badge/Java-5571FD?style=flat&logo=openjdk&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Spring Boot-5571FD?style=flat&logo=spring boot&logoColor=green"/>&nbsp<img src="https://img.shields.io/badge/Spring Security-5571FD?style=flat&logo=spring security&logoColor=green"/>&nbsp
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Apache Tomcat-5571FD?style=flat-square&logo=Apache Tomcat&logoColor=F8DC75"/>&nbsp<img src="https://img.shields.io/badge/Nginx-5571FD?style=flat-square&logo=nginx&logoColor=green"/>&nbsp<img src="https://img.shields.io/badge/Docker-5571FD?style=flat-square&logo=docker&logoColor=2496ED"/>&nbsp
+<img src="https://img.shields.io/badge/Apache Tomcat-5571FD?style=flat&logo=Apache Tomcat&logoColor=F8DC75"/>&nbsp<img src="https://img.shields.io/badge/Nginx-5571FD?style=flat&logo=nginx&logoColor=green"/>&nbsp
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/AWS S3-232F3E?style=flat-square&logo=amazon aws&logoColor=yellow"/>&nbsp
-<img src="https://img.shields.io/badge/AWS Cloudfront-232F3E?style=flat-square&logo=amazon aws&logoColor=yellow"/>&nbsp
-<img src="https://img.shields.io/badge/AWS Amplify-232F3E?style=flat-square&logo=amazon aws&logoColor=yellow"/>&nbsp
-<img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon aws&logoColor=yellow"/>&nbsp
-<img src="https://img.shields.io/badge/AWS Mediaconvert-232F3E?style=flat-square&logo=amazon aws&logoColor=yellow"/>&nbsp
-<img src="https://img.shields.io/badge/AWS Lambda-232F3E?style=flat-square&logo=amazon aws&logoColor=yellow"/>&nbsp
-<img src="https://img.shields.io/badge/AWS EventBridge-232F3E?style=flat-square&logo=amazon aws&logoColor=yellow"/>&nbsp
+<img src="https://img.shields.io/badge/AWS S3-232F3E?style=flat&logo=amazon aws&logoColor=yellow"/>&nbsp
+<img src="https://img.shields.io/badge/AWS Cloudfront-232F3E?style=flat&logo=amazon aws&logoColor=yellow"/>&nbsp
+<img src="https://img.shields.io/badge/AWS Amplify-232F3E?style=flat&logo=amazon aws&logoColor=yellow"/>&nbsp
+<img src="https://img.shields.io/badge/AWS EC2 Linux-232F3E?style=flat&logo=amazon aws&logoColor=yellow"/>&nbsp
+<img src="https://img.shields.io/badge/AWS Mediaconvert-232F3E?style=flat&logo=amazon aws&logoColor=yellow"/>&nbsp
+<img src="https://img.shields.io/badge/AWS Lambda-232F3E?style=flat&logo=amazon aws&logoColor=yellow"/>&nbsp
+<img src="https://img.shields.io/badge/AWS EventBridge-232F3E?style=flat&logo=amazon aws&logoColor=yellow"/>&nbsp
 </p>
+
+<br/>
+
+<h2 align="center">👆 Technology that I've used at least once ~</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Recoil-F03C87?style=flat&logo=&logoColor=2496ED"/>&nbsp<img src="https://img.shields.io/badge/GrapghQL-F03C87?style=flat&logo=graphql&logoColor=white"/>&nbsp
+</p>
+<p align="center"><img src="https://img.shields.io/badge/NodeJS-5571FD?style=flat&logo=node.js&logoColor=339933"/>&nbsp<img src="https://img.shields.io/badge/Docker-5571FD?style=flat&logo=docker&logoColor=2496ED"/>&nbsp<img src="https://img.shields.io/badge/Redis-5571FD?style=flat&logo=redis&logoColor=DC382D"/>&nbsp<img src="https://img.shields.io/badge/Jenkins-5571FD?style=flat&logo=jenkins&logoColor=D24939"/>&nbsp
+</p>
+
 
 <!-- 
     *************
@@ -37,15 +65,15 @@
 <br />
 <h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">Project</p></h1>
 
-<p align="center">[WKBL(KBSN)] CMS 웹 서비스 개발</p>
-<p align="center">[WKBL(KBSN)] SNS 용 영상 편집 웹 서비스 개발</p>
-<p align="center">[WKBL(KBSN)] 에 납품된 SW 시스템 유지보수</p>
-<p align="center">[KBO] CMS 웹 서비스 개발</p>
-<p align="center">[K리그] CMS 웹 서비스 개발</p>
-<p align="center">[K리그] AWS S3 미디어 전송 작업 관리 및 모니터링 Front-end 개발</p>
-<p align="center">[KBS] 방송 입고 현황 모니터링 웹 서비스 개발</p>
-<p align="center">[KBS] 납품된 솔루션 시스템 관리자 웹 페이지 개발 참여</p>
-<p align="center">[KBS] 납품된 솔루션 API 서버 개발 참여</p>
+<p align="center"><img src="https://img.shields.io/badge/WKBL-F03C87?style=flat&logo=wkbl&logoColor=2496ED"/>&nbsp CMS 웹 서비스 개발</p>
+<p align="center"><img src="https://img.shields.io/badge/WKBL-F03C87?style=flat&logo=wkbl&logoColor=2496ED"/> SNS 용 영상 편집 웹 서비스 개발</p>
+<p align="center"><img src="https://img.shields.io/badge/WKBL-F03C87?style=flat&logo=wkbl&logoColor=2496ED"/> 에 납품된 SW 시스템 유지보수</p>
+<p align="center"><img src="https://img.shields.io/badge/KBO-blue?style=flat&logo=wkbl&logoColor=2496ED"/> CMS 웹 서비스 개발</p>
+<p align="center"><img src="https://img.shields.io/badge/K%20league-red?style=flat&logo=wkbl&logoColor=2496ED"/> CMS 웹 서비스 개발</p>
+<p align="center"><img src="https://img.shields.io/badge/K%20league-red?style=flat&logo=wkbl&logoColor=2496ED"/> AWS S3 미디어 전송 작업 관리 및 모니터링 Front-end 개발</p>
+<p align="center"><img src="https://img.shields.io/badge/KBS-grey?style=flat&logo=wkbl&logoColor=2496ED"/> 방송 입고 현황 모니터링 웹 서비스 개발</p>
+<p align="center"><img src="https://img.shields.io/badge/KBS-grey?style=flat&logo=wkbl&logoColor=2496ED"/> 납품된 솔루션 시스템 관리자 웹 페이지 개발 참여</p>
+<p align="center"><img src="https://img.shields.io/badge/KBS-grey?style=flat&logo=wkbl&logoColor=2496ED"/> 납품된 솔루션 API 서버 개발 참여</p>
 
 
 <!-- 
