@@ -5,7 +5,7 @@
     ************* 기술 스택
     *************
  -->
-<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD; text-shadow:2px 2px 3px #000;">Tech Stack</p></h1>
+<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">Tech Stack</p></h1>
 
 <p align="center"><img src="https://img.shields.io/badge/JavaScript-F03C87?style=flat-square&logo=JavaScript&logoColor=yellow"/>&nbsp<img src="https://img.shields.io/badge/Typescript-F03C87?style=flat-square&logo=Typescript&logoColor=5571FD"/>&nbsp<img src="https://img.shields.io/badge/React-F03C87?style=flat-square&logo=React&logoColor=61DAFB"/>&nbsp<img src="https://img.shields.io/badge/NextJS-F03C87?style=flat-square&logo=next.js&logoColor=000000"/>&nbsp
 <img src="https://img.shields.io/badge/Electron-F03C87?style=flat-square&logo=electron&logoColor=47848F"/>&nbsp
@@ -35,7 +35,7 @@
     *************
  -->
 <br />
-<h1 align="center"><img src="./mix_crop.png" width="40px" />&nbsp Project</h1>
+<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">Project</p></h1>
 
 <p align="center">[WKBL(KBSN)] CMS 웹 서비스 개발</p>
 <p align="center">[WKBL(KBSN)] SNS 용 영상 편집 웹 서비스 개발</p>
@@ -54,7 +54,8 @@
     *************
  -->
 <br />
-<h1 align="center"><img src="./mix_crop.png" width="40px" />&nbsp Core Competency</h1>
+<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">Core Competency</p></h1>
+<!-- <h1 align="center"><img src="./mix_crop.png" width="40px" />&nbsp Core Competency</h1> -->
 
 <p align="center">HTML5 비디오 플레이어 UI 커스텀 구현 경험</p>
 <p align="center">Canvas 를 활용한 frame 단위의 영상 구간 자르기 및 영역 자르기 UI 구현 경험</p>
@@ -72,7 +73,7 @@
     *************
  -->
 <br />
-<h1 align="center"><img src="./mix_crop.png" width="40px" />&nbsp Career</h1>
+<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">Career</p></h1>
 
 _<p align="center">2022년 7월 ~ 2019년 3월</p>_
 
