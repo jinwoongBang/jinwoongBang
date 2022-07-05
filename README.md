@@ -5,15 +5,19 @@
     ************* 기술 스택
     *************
  -->
- 👋 안녕하세요 __4년차 프론트엔드 개발자__ 방진웅 입니다  
+ <p align="center">👋 &nbsp 안녕하세요 4년차 프론트엔드 개발자 방진웅 입니다</p>
+ 
+ <p align="center">🏢 &nbsp 2019.03 ~ 2022.07 까지 (주)맑은기술에서 웹 개발자로 재직했으며</p>
 
- 🏢 2019.03 ~ 2022.07 까지 __(주)맑은기술에서 웹 개발자__ 로 재직했으며  
+ <p align="center">🛠 &nbsp 주로 프론트엔드 개발과 미들웨어 WAS 개발 업무를 담당했습니다.</p>
+ <p align="center">🎓 &nbsp 삼육대학교를 졸업했고,</p>
+ <p align="center">📚 &nbsp 환경그린디자인학 & 경영학을 복수전공 했습니다.</p>
 
- 🛠 주로 __프론트엔드 개발과 미들웨어 WAS 개발__ 업무를 담당했습니다. 
 
-🎓 삼육대학교를 졸업했고,  
 
-📚 환경그린디자인학 & 경영학을 복수전공 했습니다.
+
+
+
 
 <!-- 
     *************
@@ -22,7 +26,7 @@
  -->
 <br/>
 <h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">Tech Stack</p></h1>
-<h2 align="center">🏢 Technology that can be used for work ~</h2>
+<h3 align="center">🏢 Technology that can be used for work ~</h3>
 
 
 <p align="center"><img src="https://img.shields.io/badge/JavaScript-F03C87?style=flat&logo=JavaScript&logoColor=yellow"/>&nbsp<img src="https://img.shields.io/badge/Typescript-F03C87?style=flat&logo=Typescript&logoColor=5571FD"/>&nbsp<img src="https://img.shields.io/badge/React-F03C87?style=flat&logo=React&logoColor=61DAFB"/>&nbsp<img src="https://img.shields.io/badge/Redux-F03C87?style=flat&logo=redux&logoColor=764ABC"/>&nbsp<img src="https://img.shields.io/badge/Mobx-F03C87?style=flat&logo=mobx&logoColor=FF9955"/>&nbsp<img src="https://img.shields.io/badge/NextJS-F03C87?style=flat&logo=next.js&logoColor=000000"/>&nbsp
@@ -32,8 +36,14 @@
 <p align="center"><img src="https://img.shields.io/badge/Tailwind CSS-F03C87?style=flat&logo=Tailwind CSS&logoColor=06B6D4"/>&nbsp<img src="https://img.shields.io/badge/Bootstrap-F03C87?style=flat&logo=Bootstrap&logoColor=7952B3"/>&nbsp<img src="https://img.shields.io/badge/Material UI-F03C87?style=flat&logo=mui&logoColor=007FFF"/>&nbsp
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-5571FD?style=flat&logo=openjdk&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Spring Boot-5571FD?style=flat&logo=spring boot&logoColor=green"/>&nbsp<img src="https://img.shields.io/badge/Spring Security-5571FD?style=flat&logo=spring security&logoColor=green"/>&nbsp
+<img src="https://img.shields.io/badge/Java-5571FD?style=flat&logo=openjdk&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Spring Boot-5571FD?style=flat&logo=spring boot&logoColor=green"/>&nbsp<img src="https://img.shields.io/badge/Spring Security-5571FD?style=flat&logo=spring security&logoColor=green"/>
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Oracle-5571FD?style=flat&logo=Oracle&logoColor=F80000"/>&nbsp
+<img src="https://img.shields.io/badge/MySQL-5571FD?style=flat&logo=mysql&logoColor=4479A1"/>&nbsp<img src="https://img.shields.io/badge/Tibero-5571FD?style=flat&logo=tibero&logoColor=4479A1"/>&nbsp
+</p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Apache Tomcat-5571FD?style=flat&logo=Apache Tomcat&logoColor=F8DC75"/>&nbsp<img src="https://img.shields.io/badge/Nginx-5571FD?style=flat&logo=nginx&logoColor=green"/>&nbsp
 </p>
@@ -49,7 +59,7 @@
 
 <br/>
 
-<h2 align="center">👆 Technology that I've used at least once ~</h2>
+<h3 align="center">👆 Technology that I've used at least once ~</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Recoil-F03C87?style=flat&logo=&logoColor=2496ED"/>&nbsp<img src="https://img.shields.io/badge/GrapghQL-F03C87?style=flat&logo=graphql&logoColor=white"/>&nbsp
 </p>
