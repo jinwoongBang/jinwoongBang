@@ -13,20 +13,14 @@
  <p align="center">🎓 &nbsp 삼육대학교를 졸업했고,</p>
  <p align="center">📚 &nbsp 환경그린디자인학 & 경영학을 복수전공 했습니다.</p>
 
-
-
-
-
-
-
 <!-- 
     *************
     ************* 기술 스택
     *************
  -->
 <br/>
-<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">Tech Stack</p></h1>
-<h3 align="center">🏢 Technology that can be used for work ~</h3>
+<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">기술 스택</p></h1>
+<h3 align="center">🏢 &nbsp 업무에도 활용해요 ~</h3>
 
 
 <p align="center"><img src="https://img.shields.io/badge/JavaScript-F03C87?style=flat&logo=JavaScript&logoColor=yellow"/>&nbsp<img src="https://img.shields.io/badge/Typescript-F03C87?style=flat&logo=Typescript&logoColor=5571FD"/>&nbsp<img src="https://img.shields.io/badge/React-F03C87?style=flat&logo=React&logoColor=61DAFB"/>&nbsp<img src="https://img.shields.io/badge/Redux-F03C87?style=flat&logo=redux&logoColor=764ABC"/>&nbsp<img src="https://img.shields.io/badge/Mobx-F03C87?style=flat&logo=mobx&logoColor=FF9955"/>&nbsp<img src="https://img.shields.io/badge/NextJS-F03C87?style=flat&logo=next.js&logoColor=000000"/>&nbsp
@@ -59,7 +53,7 @@
 
 <br/>
 
-<h3 align="center">👆 Technology that I've used at least once ~</h3>
+<h3 align="center">🍼 &nbsp 어느정도 사용할 줄 알아요 ~</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Recoil-F03C87?style=flat&logo=&logoColor=2496ED"/>&nbsp<img src="https://img.shields.io/badge/GrapghQL-F03C87?style=flat&logo=graphql&logoColor=white"/>&nbsp
 </p>
@@ -73,7 +67,7 @@
     *************
  -->
 <br />
-<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">Project</p></h1>
+<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">프로젝트</p></h1>
 
 <p align="center"><img src="https://img.shields.io/badge/WKBL-F03C87?style=flat&logo=wkbl&logoColor=2496ED"/>&nbsp CMS 웹 서비스 개발</p>
 <p align="center"><img src="https://img.shields.io/badge/WKBL-F03C87?style=flat&logo=wkbl&logoColor=2496ED"/> SNS 용 영상 편집 웹 서비스 개발</p>
@@ -92,7 +86,7 @@
     *************
  -->
 <br />
-<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">Core Competency</p></h1>
+<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">핵심 역량</p></h1>
 <!-- <h1 align="center"><img src="./mix_crop.png" width="40px" />&nbsp Core Competency</h1> -->
 
 <p align="center">HTML5 비디오 플레이어 UI 커스텀 구현 경험</p>
@@ -111,7 +105,7 @@
     *************
  -->
 <br />
-<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">Career</p></h1>
+<h1 align="center"><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">경력</p></h1>
 
 _<p align="center">2022년 7월 ~ 2019년 3월</p>_
 
