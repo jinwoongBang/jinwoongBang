@@ -19,7 +19,7 @@
     *************
  -->
 <br/>
-<h1 align=""><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">기술 스택</p></h1>
+<h1 align=""><img src="./mix_crop.png" width="40px" /><span style="color: #5571FD;">&nbsp 기술 스택</span></h1>
 <h3 align="">🏢 &nbsp 업무에도 활용해요 ~</h3>
 
 
@@ -65,7 +65,7 @@
     *************
  -->
 <br />
-<h1 align=""><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">프로젝트</p></h1>
+<h1 align=""><img src="./mix_crop.png" width="40px" /><span style="color: #5571FD;">&nbsp 프로젝트</span></h1>
 
 <p align=""><img src="https://img.shields.io/badge/WKBL-F03C87?style=flat&logo=wkbl&logoColor=2496ED"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp CMS 웹 서비스 개발</p>
 <p align=""><img src="https://img.shields.io/badge/WKBL-F03C87?style=flat&logo=wkbl&logoColor=2496ED"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp SNS 용 영상 편집 웹 서비스 개발</p>
@@ -84,7 +84,7 @@
     *************
  -->
 <br />
-<h1 align=""><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">핵심 역량</p></h1>
+<h1 align=""><img src="./mix_crop.png" width="40px" /><span style="color: #5571FD;">&nbsp 핵심 역량</span></h1>
 <!-- <h1 align="center"><img src="./mix_crop.png" width="40px" />&nbsp Core Competency</h1> -->
 
 <p align="">🎥 HTML5 비디오 플레이어 UI 커스텀 구현 경험</p>
@@ -103,7 +103,7 @@
     *************
  -->
 <br />
-<h1 align=""><img src="./mix_crop.png" width="40px" /><p style="color: #5571FD;">경력</p></h1>
+<h1 align=""><img src="./mix_crop.png" width="40px" /><span style="color: #5571FD;">&nbsp 경력</span></h1>
 
 _<p align="">2022년 7월 ~ 2019년 3월</p>_
 
