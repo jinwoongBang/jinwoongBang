@@ -5,10 +5,11 @@
     ************* 기술 스택
     *************
  -->
-<div style="display: flex; justify-content: space-around;">
+<div align='middle' >
+
 <img src="./mix_crop.png" width="150px" />
 
-<div>
+<span>
 
 <p align="">✔️  &nbsp 안녕하세요 4년차 프론트엔드 개발자 방진웅 입니다</p>
 
@@ -20,7 +21,7 @@
 
 <p align="">✔️  &nbsp 환경그린디자인학 & 경영학을 복수전공 했습니다.</p>
 
-</div>
+</span>
 </div>
 
 
@@ -32,7 +33,7 @@
 <br/>
 <h1 align="">
 <!-- <img src="./mix_crop.png" width="40px" /> -->
-<span>&nbsp 기술 스택</span></h1>
+<span>✔️  &nbsp 기술 스택</span></h1>
 <h3 align="">✔️ &nbsp 업무에도 활용해요</h3>
 
 
@@ -78,7 +79,10 @@
     *************
  -->
 <br />
-<h1 align=""><img src="./mix_crop.png" width="40px" /><span style="color: #5571FD;">&nbsp 프로젝트</span></h1>
+<h1 align="">
+<!-- <img src="./mix_crop.png" width="40px" /> -->
+<span>✔️ &nbsp 프로젝트</span>
+</h1>
 
 <p align=""><img src="https://img.shields.io/badge/WKBL-F03C87?style=flat&logo=wkbl&logoColor=2496ED"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp CMS 웹 서비스 개발</p>
 <p align=""><img src="https://img.shields.io/badge/WKBL-F03C87?style=flat&logo=wkbl&logoColor=2496ED"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp SNS 용 영상 편집 웹 서비스 개발</p>
