@@ -19,8 +19,11 @@
     *************
  -->
 <br/>
-<h1 align=""><img src="./mix_crop.png" width="40px" /><span style="color: #5571FD;">&nbsp 기술 스택</span></h1>
-<h3 align="">✓ ✔ ✔️&nbsp 업무에도 활용해요</h3>
+<h1 align="">
+<!-- <img src="./mix_crop.png" width="40px" /> -->
+✔️ 
+<span>&nbsp 기술 스택</span></h1>
+<h3 align="">✔️ &nbsp 업무에도 활용해요</h3>
 
 
 <p align=""><img src="https://img.shields.io/badge/JavaScript-F03C87?style=flat&logo=JavaScript&logoColor=yellow"/>&nbsp<img src="https://img.shields.io/badge/Typescript-F03C87?style=flat&logo=Typescript&logoColor=5571FD"/>&nbsp<img src="https://img.shields.io/badge/React-F03C87?style=flat&logo=React&logoColor=61DAFB"/>&nbsp<img src="https://img.shields.io/badge/Redux-F03C87?style=flat&logo=redux&logoColor=764ABC"/>&nbsp<img src="https://img.shields.io/badge/Mobx-F03C87?style=flat&logo=mobx&logoColor=FF9955"/>&nbsp<img src="https://img.shields.io/badge/NextJS-F03C87?style=flat&logo=next.js&logoColor=000000"/>&nbsp<img src="https://img.shields.io/badge/Electron-F03C87?style=flat&logo=electron&logoColor=47848F"/>&nbsp<img src="https://img.shields.io/badge/Webpack-F03C87?style=flat&logo=webpack&logoColor=8DD6F9"/>&nbsp
@@ -51,7 +54,7 @@
 
 <br/>
 
-<h3 align="">🍼 &nbsp 어느정도 사용할 줄 알아요 ~</h3>
+<h3 align="">✔️  &nbsp 어느정도 사용할 줄 알아요</h3>
 <p align="">
 <img src="https://img.shields.io/badge/Recoil-F03C87?style=flat&logo=&logoColor=2496ED"/>&nbsp
 </p>
