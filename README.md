@@ -7,21 +7,39 @@
  -->
 <div align='middle' >
 
-<img src="./mix_crop.png" width="150px" />
+<img src="./mix_crop.png" width="150px" style="margin-bottom: 40px" />
 
 <span>
 
-<p align="">✔️  &nbsp 안녕하세요 4년차 프론트엔드 개발자 방진웅 입니다</p>
+***<p align="">안녕하세요 🤚 4년차 프론트엔드 개발자 방진웅 입니다 ~</p>***
 
-<p align="">✔️  &nbsp 2019.03 ~ 2022.07 까지 (주)맑은기술에서 웹 개발자로 재직했으며</p>
+***<p align="">삼육대학교를 졸업했고, 환경그린디자인학 & 경영학을 복수전공 했습니다.</p>***
 
-<p align="">✔️  &nbsp 주로 프론트엔드 개발과 미들웨어 WAS 개발 업무를 담당했습니다.</p>
+<br />
 
-<p align="">✔️ &nbsp 삼육대학교를 졸업했고,</p>
+<!-- ***<p align="">비전공자이기에 6개월 동안 국비지원 학원 교육을 이수와</p>***
+***<p align="">정보처리기사 자격증을 보유하고 있습니다.</p>***
 
-<p align="">✔️  &nbsp 환경그린디자인학 & 경영학을 복수전공 했습니다.</p>
+<br /> -->
+
+***<p align="">2019.03 ~ 2022.07 까지 (주)맑은기술에서 웹 개발자로 일을 했고</p>***
+
+***<p align="">주로 프론트엔드 개발과 미들웨어 WAS 개발 업무를 담당했습니다.</p>***
+
+<br />
+
+***<p align="">개발을 즐기면서 하고있고, </p>***
+
+***<p align="">계속해서 더 나은 개발자가 되기 위해 부족한 부분을 찾고 채우려고 노력해요.</p>***
+
+***<p align="">여러 문제 해결을 함께 했으면 좋겠습니다 ~ 🤚</p>***
+
+<br />
+
+
 
 </span>
+
 </div>
 
 
@@ -34,7 +52,7 @@
 <h1 align="">
 <!-- <img src="./mix_crop.png" width="40px" /> -->
 <span>✔️  &nbsp 기술 스택</span></h1>
-<h3 align="">✔️ &nbsp 업무에도 활용해요</h3>
+<h3 align="">업무에도 활용해요</h3>
 
 
 <p align=""><img src="https://img.shields.io/badge/JavaScript-F03C87?style=flat&logo=JavaScript&logoColor=yellow"/>&nbsp<img src="https://img.shields.io/badge/Typescript-F03C87?style=flat&logo=Typescript&logoColor=5571FD"/>&nbsp<img src="https://img.shields.io/badge/React-F03C87?style=flat&logo=React&logoColor=61DAFB"/>&nbsp<img src="https://img.shields.io/badge/Redux-F03C87?style=flat&logo=redux&logoColor=764ABC"/>&nbsp<img src="https://img.shields.io/badge/Mobx-F03C87?style=flat&logo=mobx&logoColor=FF9955"/>&nbsp<img src="https://img.shields.io/badge/NextJS-F03C87?style=flat&logo=next.js&logoColor=000000"/>&nbsp<img src="https://img.shields.io/badge/Electron-F03C87?style=flat&logo=electron&logoColor=47848F"/>&nbsp<img src="https://img.shields.io/badge/Webpack-F03C87?style=flat&logo=webpack&logoColor=8DD6F9"/>&nbsp
@@ -65,7 +83,7 @@
 
 <br/>
 
-<h3 align="">✔️  &nbsp 어느정도 사용할 줄 알아요</h3>
+<h3 align="">어느정도 사용할 줄 알아요</h3>
 <p align="">
 <img src="https://img.shields.io/badge/Recoil-F03C87?style=flat&logo=&logoColor=2496ED"/>&nbsp
 </p>
@@ -101,7 +119,10 @@
     *************
  -->
 <br />
-<h1 align=""><img src="./mix_crop.png" width="40px" /><span style="color: #5571FD;">&nbsp 핵심 역량</span></h1>
+<h1 align="">
+<!-- <img src="./mix_crop.png" width="40px" /> -->
+<span>✔️ &nbsp 핵심 역량</span>
+</h1>
 <!-- <h1 align="center"><img src="./mix_crop.png" width="40px" />&nbsp Core Competency</h1> -->
 
 <p align="">🎥 HTML5 비디오 플레이어 UI 커스텀 구현 경험</p>
@@ -120,7 +141,10 @@
     *************
  -->
 <br />
-<h1 align=""><img src="./mix_crop.png" width="40px" /><span style="color: #5571FD;">&nbsp 경력</span></h1>
+<h1 align="">
+<!-- <img src="./mix_crop.png" width="40px" /> -->
+<span>✔️ &nbsp 경력</span>
+</h1>
 
 _<p align="">2022년 7월 ~ 2019년 3월</p>_
 
