@@ -7,7 +7,9 @@
  -->
 <div align='middle' >
 
+<a href="https://portfolio-chi-three-70.vercel.app">
 <img src="./mix_crop.png" width="150px" style="margin-bottom: 40px" />
+</a>
 
 <span>
 
